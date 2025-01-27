@@ -15,29 +15,68 @@ execute:
 
 ## Introducción
 
-## Objetivo
+## Actividad
+
+Apoyo tecnico y académico a los estudiantes de pregrado y posgrado del laboratorio y participación en los seminarios del grupo
+
 
 ## Material & Métodos
 
+El Dr. Felipe Dzul Manzanilla ha perticipado en diferentes seminarios de investigación con estudiantes de posgrado donde se proporciona apoyo técnico y académico, sin embargo no es común que se expidan constancias de estas reuniones. Asi mismo, el Dr. Felipe Antonio Dzul Manzanilla a propocionado apoyo técnico y académico al Programa Nacional de Prevención & Control de Enfermedades Transmitidas por Vector (ETV) E Intoxicación por Veneno de Artrópodo (IVA) del Centro Nacional de Prevención y Control de Enfermedaes.
+
+Las única constancia disponible es sob
+
+
 ## Resultados
 
-### Caratula de Tesis de Posgrado
+### Apoyo tecnico-academico a estudiantes
 
+
+#### Caratula de tesis
 ![](caratula_tesis.png)
 
 
-### Constancia de Segundo Sinodal
+#### Constancia de Segundo Sinodal
 
 ![](constancia_fadm.png)
 
-### Protocolo de Tesis
+#### Protocolo de Tesis
 
 ![](voto_sinodal.png)
 
 
-### Protocolo de Tesis
+### Apoyo Técnico-Académico al Programa Nacional de Prevención & Control ETVs e IVA
 
-[]()
+
+#### Plan Nacional para el Control del Dengue y Otras Arbovirosis
+
+
+![Noticia](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/474948380_1027977516030255_3878255074372831989_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QCqGo1KZ2FcQ7kNvgEaAwiI&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=A9MwjtuWfLmIY-lvQ6C51QE&oh=00_AYCCu2DexwvXdy3daTNClek1TlXYk0CV6sN-2y-DjHwMlg&oe=679DB8EC)
+
+[link](https://www.gob.mx/salud/prensa/plan-nacional-para-el-control-del-dengue-y-otras-arbovirosis?fbclid=IwY2xjawIEwvZleHRuA2FlbQIxMAABHaiLBx05QdtU7w0L3YQR3tMVLTbYz2GTBTwpnX4SH-Dtp6Ml-Z8T0UryCg_aem_aIMqZ1bQ9x8nRVeehm4KZg)
+
+
+[Tarjeta Informativa](https://www.gob.mx/cms/uploads/attachment/file/970015/TARJETA_INFORMATIVA_DENGUE.pdf)
+
+
+#### Programa Nacional de Vigilancia Entomológica del Oropouche
+
+Portada
+
+![](portada_oropouche.png)
+
+Grupo trabajo
+
+![](grupo_trabajo.png)
+
+Documento en extenso
+
+![Manual de Vigilancia Entomologia & Generalidades de los vectores del Virus Oropouche (OROV)]()
+
+#### Programa Nacional de Vigilancia Entomológica del Leishmaniasis
+
+
+
 
 ## Conclusión
 
