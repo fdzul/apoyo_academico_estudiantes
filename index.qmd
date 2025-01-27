@@ -21,6 +21,24 @@ execute:
 
 ## Resultados
 
+### Caratula de Tesis de Posgrado
+
+![](caratula_tesis.png)
+
+
+### Constancia de Segundo Sinodal
+
+![](constancia_fadm.png)
+
+### Protocolo de Tesis
+
+![](voto_sinodal.png)
+
+
+### Protocolo de Tesis
+
+[]()
+
 ## Conclusión
 
 
