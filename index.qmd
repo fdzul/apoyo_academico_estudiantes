@@ -24,13 +24,20 @@ Apoyo tecnico y académico a los estudiantes de pregrado y posgrado del laborato
 
 El Dr. Felipe Dzul Manzanilla ha perticipado en diferentes seminarios de investigación con estudiantes de posgrado donde se proporciona apoyo técnico y académico, sin embargo no es común que se expidan constancias de estas reuniones. Asi mismo, el Dr. Felipe Antonio Dzul Manzanilla a propocionado apoyo técnico y académico al Programa Nacional de Prevención & Control de Enfermedades Transmitidas por Vector (ETV) E Intoxicación por Veneno de Artrópodo (IVA) del Centro Nacional de Prevención y Control de Enfermedaes.
 
-Las única constancia disponible es sob
+Las única constancia disponible del apoyo técnico y académico a estudiantes se presenta a continuación. Asi mismo se presenta evidencia del apoyo técnico-académico a instituciones.
 
 
 ## Resultados
 
-### Apoyo tecnico-academico a estudiantes
+### Apoyo Técnico-Académico a Estudiantes
 
+
+#### Datos Básicos del Estudiante
+
+| Alumno | Título | Enlace del Protocolo |
+|--------|-----|------|
+| Ana Beatriz Vázquez Rodríguez | Características & Determinantes de la Dinámica de Transmisión del Dengue en Cundinamarca-Colombia  | [link](https://github.com/fdzul/apoyo_academico_estudiantes/blob/main/protocolo.pdf) | 
+: Datos básicos del apoyo técnico-académico a estudiantes.
 
 #### Caratula de tesis
 ![](caratula_tesis.png)
@@ -71,13 +78,13 @@ Grupo trabajo
 
 Documento en extenso
 
-![Manual de Vigilancia Entomologia & Generalidades de los vectores del Virus Oropouche (OROV)]()
-
-#### Programa Nacional de Vigilancia Entomológica del Leishmaniasis
-
-
+![Manual de Vigilancia Entomologia & Generalidades de los vectores del Virus Oropouche (OROV)](https://github.com/fdzul/apoyo_academico_estudiantes/blob/main/vigilancia_oropouche.pdf)
 
 
 ## Conclusión
+
+Aunque solo a un estudiante se le ha proporcionado apoyo técnico y académico, también se proporcionado apoyo técnico y académico al Programa Nacional de Prevención & Control ETVs e IVA del CENAPRECE.
+
+
 
 
