@@ -78,7 +78,7 @@ Grupo trabajo
 
 Documento en extenso
 
-![Manual de Vigilancia Entomologia & Generalidades de los vectores del Virus Oropouche (OROV)](https://github.com/fdzul/apoyo_academico_estudiantes/blob/main/vigilancia_oropouche.pdf)
+[Manual de Vigilancia Entomologia & Generalidades de los vectores del Virus Oropouche (OROV)](https://github.com/fdzul/apoyo_academico_estudiantes/blob/main/vigilancia_oropouche.pdf)
 
 
 ## Conclusión
